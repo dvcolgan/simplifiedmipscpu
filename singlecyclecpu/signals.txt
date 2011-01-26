@@ -1,0 +1,13 @@
+ProgramCounterOut
+InstructionMemoryOut
+Clock
+Rs
+Rt
+Rd
+ShiftAmnt
+ImmediateValue
+RegisterFileData1Out
+RegisterFileData2Out
+ALUValueOut
+DataMemoryOut
+MemToRegMuxOut

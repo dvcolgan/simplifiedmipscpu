@@ -1,0 +1,9 @@
+David Colgan
+COS 381 CPU
+
+Most components have their own test bench, as well as a shell script to build and
+test it.  There is also the makeclean.sh script to rm the output files.
+
+Run sh makeregfile.sh to build the register file and sh makealu.sh to build the alu.
+
+Run sh makecontrol.sh to build the control.  Run sh makealucontrol.sh to build the alu control.
